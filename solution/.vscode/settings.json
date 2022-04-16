@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.checkstyle.version": "8.18",
+    "java.checkstyle.configuration": "${workspaceFolder}\\solution\\target\\checkstyle-checker.xml"
+}
