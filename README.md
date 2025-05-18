@@ -1,5 +1,5 @@
 
-# Family Tree - Longin Karlo
+# Family Tree
 
 A Java program made inside of the Maven software project management tool that deals with the creation of a family tree based on the following input:
 
